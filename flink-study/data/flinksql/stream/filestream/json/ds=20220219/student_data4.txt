@@ -1,0 +1,1 @@
+{"uid":12,"uname":"lishan","score":96.5}
